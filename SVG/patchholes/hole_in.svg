@@ -1,0 +1,21 @@
+<svg width="46" height="47" viewBox="0 0 46 47" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d)">
+<path d="M15.5679 8.93313C16.3117 8.17664 17.3255 7.74658 18.3863 7.73756L27.3181 7.66164C28.379 7.65263 29.3999 8.06539 30.1564 8.80913L36.5259 15.0712C37.2824 15.815 37.7124 16.8288 37.7214 17.8896L37.7973 26.8214C37.8064 27.8822 37.3936 28.9032 36.6499 29.6597L30.3878 36.0292C29.644 36.7856 28.6302 37.2157 27.5694 37.2247L18.6376 37.3006C17.5767 37.3097 16.5558 36.8969 15.7993 36.1532L9.42984 29.8911C8.67335 29.1473 8.24329 28.1335 8.23427 27.0727L8.15835 18.1409C8.14934 17.08 8.5621 16.0591 9.30584 15.3026L15.5679 8.93313Z" fill="#F3F3F3"/>
+<path d="M15.7462 9.1084C16.4435 8.39919 17.3939 7.99601 18.3884 7.98755L27.3203 7.91163C28.3148 7.90318 29.2719 8.29015 29.9811 8.98741L36.3506 15.2495C37.0598 15.9467 37.463 16.8972 37.4714 17.8917L37.5474 26.8235C37.5558 27.8181 37.1688 28.7752 36.4716 29.4844L30.2095 35.8539C29.5122 36.5631 28.5618 36.9663 27.5673 36.9747L18.6354 37.0506C17.6409 37.0591 16.6838 36.6721 15.9746 35.9749L9.60511 29.7128C8.8959 29.0155 8.49272 28.0651 8.48426 27.0706L8.40834 18.1387C8.39989 17.1442 8.78686 16.1871 9.48412 15.4778L15.7462 9.1084Z" stroke="#9D9D9D" stroke-width="0.5"/>
+</g>
+<g style="mix-blend-mode:hard-light">
+<circle cx="23" cy="23" r="11" fill="#4F4F4F" fill-opacity="0.95"/>
+</g>
+<circle cx="23" cy="23" r="8" fill="black"/>
+<defs>
+<filter id="filter0_d" x="0.432102" y="0.935394" width="45.0915" height="45.0915" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>
